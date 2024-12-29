@@ -165,49 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d13145a42d7cd6ed",
-    "type": "floating",
-    "children": [
-      {
-        "id": "71b27800aecea245",
-        "type": "window",
-        "children": [
-          {
-            "id": "0e9bafd94d5f226b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "731daaf5318c1ceb",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Algebra/Algebra.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Algebra"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 315,
-        "y": 224,
-        "width": 1198,
-        "height": 742,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "bdac10b36697d71b",
   "lastOpenFiles": [
+    "Algebra/Algebra.pdf",
     "Algebra/1 Insiemi e Funzioni/1.2 Composizione di Funzioni.md",
     "Algebra/1 Insiemi e Funzioni/1.0 Insiemi e Funzioni.md",
     "Algebra/2 Numeri interi/2.3 Equazioni Diofantee Lineari.md",
-    "Algebra/Algebra.pdf",
     "Algebra/1 Insiemi e Funzioni/Definizioni/immagine.md",
     "Algebra/1 Insiemi e Funzioni/=Definizioni/Untitled.canvas",
     "Algebra/1 Insiemi e Funzioni/Definizioni",

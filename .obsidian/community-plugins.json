@@ -1,4 +1,6 @@
 [
   "obsidian-latex-suite",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "custom-sort",
+  "obsidian-git"
 ]
