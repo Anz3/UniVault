@@ -162,22 +162,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bdac10b36697d71b",
   "lastOpenFiles": [
+    "Algebra/2 Numeri interi/2.2 Algoritmo Euclideo.md",
+    "Algebra/2 Numeri interi/2.3 Equazioni Diofantee Lineari.md",
     "Algebra/Algebra.pdf",
     "Algebra/1 Insiemi e Funzioni/1.2 Composizione di Funzioni.md",
     "Algebra/1 Insiemi e Funzioni/1.0 Insiemi e Funzioni.md",
-    "Algebra/2 Numeri interi/2.3 Equazioni Diofantee Lineari.md",
     "Algebra/1 Insiemi e Funzioni/Definizioni/immagine.md",
     "Algebra/1 Insiemi e Funzioni/=Definizioni/Untitled.canvas",
     "Algebra/1 Insiemi e Funzioni/Definizioni",
     "Algebra/1 Insiemi e Funzioni/Definizioni/codominio.md",
     "Algoritmo Euclideo.md",
     "Algebra/2 Numeri interi/2.1 Principio di Induzione.md",
-    "Algebra/2 Numeri interi/2.2 Algoritmo Euclideo.md",
     "Algebra/6-Numeri Complessi.md",
     "Introduzione alla programmazione/CheatSheetIP.pdf",
     "Algebra/2 Numeri interi",
