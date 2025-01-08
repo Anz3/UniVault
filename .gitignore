@@ -1,6 +1,7 @@
 Introduzione\ alla\ programmazione/
-Architettura\ dei\ calcolatori/
 .obsidian/
 .git/
+Architettura dei Calcolatori/
+.gitignore
 *   # Ignora tutti i file nella directory principale
 !*/ # Reinclude le sottocartelle, tranne quelle specificate sopra
