@@ -1,0 +1,1 @@
+L' insieme dei valori possibili che la variabile indipendente $x$ può assumere, in modo che la funzione sia definita in tali valori
