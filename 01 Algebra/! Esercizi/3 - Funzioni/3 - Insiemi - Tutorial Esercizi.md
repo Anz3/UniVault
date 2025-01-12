@@ -28,3 +28,6 @@ Risolvi f(x)=y
 2. **Caso equazione lineare (primo grado):**
 - verifica che $\Delta\geq{0}$
 - la soluzione di $\Delta\geq{0}$ è l' **immagine** e appare come:     $Immagine=\left[ -\frac{1}{4},+\infty\right]$
+
+### spiegazione bog
+- riscrivi equazione data ponendolo al valore dell  immagine
