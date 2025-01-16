@@ -1,0 +1,4 @@
+*.md
+!*/folder_name.md
+!*.md``
+

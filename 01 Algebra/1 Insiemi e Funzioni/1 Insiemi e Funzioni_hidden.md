@@ -1,0 +1,11 @@
+# 1 Insiemi e Funzioni
+
+- Torna a [[01 Algebra/01 Algebra.md]]
+
+## Sottocartelle
+- [[Definizioni/Definizioni.md]]
+
+## File Markdown
+- [[1.0 Insiemi e Funzioni.md]]
+- [[1.2 Composizione di Funzioni.md]]
+- [[.1 Insiemi e Funzioni.md]]

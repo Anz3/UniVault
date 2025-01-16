@@ -1,0 +1,17 @@
+# Obsidian
+
+- Torna a [[Documenti/Documenti.md]]
+
+## Sottocartelle
+- [[img/img.md]]
+- [[01 Algebra/01 Algebra.md]]
+- [[03 Introduzione alla programmazione/03 Introduzione alla programmazione.md]]
+- [[99 Excalidraw/99 Excalidraw.md]]
+- [[02 Architettura dei Calcolatori/02 Architettura dei Calcolatori.md]]
+- [[98 img/98 img.md]]
+- [[04 Esame Patente/04 Esame Patente.md]]
+- [[.obsidian/.obsidian.md]]
+- [[.git/.git.md]]
+
+## File Markdown
+- [[.Obsidian.md]]

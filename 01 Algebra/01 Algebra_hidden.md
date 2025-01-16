@@ -1,0 +1,16 @@
+# 01 Algebra
+
+## Sottocartelle
+- [[2 Numeri interi/2 Numeri interi.md]]
+- [[3 Numeri Complessi/3 Numeri Complessi.md]]
+- [[5 Cardinalità/5 Cardinalità.md]]
+- [[4 Relazioni D'equivalenza/4 Relazioni D'equivalenza.md]]
+- [[1 Insiemi e Funzioni/1 Insiemi e Funzioni.md]]
+- [[0 Basi di Algebra/0 Basi di Algebra.md]]
+- [[7 Relazioni d'ordine/7 Relazioni d'ordine.md]]
+- [[6 Calcolo Combinatorio/6 Calcolo Combinatorio.md]]
+- [[! Esercizi/! Esercizi.md]]
+
+## File Markdown
+- [[Anello -> Gruppi.md]]
+- [[.01 Algebra.md]]
