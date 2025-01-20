@@ -1,7 +1,0 @@
-# 3 - Funzioni
-
-- Torna a [[! Esercizi/! Esercizi.md]]
-
-## File Markdown
-- [[.3 - Funzioni.md]]
-- [[3 - Insiemi - Tutorial Esercizi.md]]

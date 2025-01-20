@@ -1,9 +1,0 @@
-# 3 Numeri Complessi
-
-- Torna a [[01 Algebra/01 Algebra.md]]
-
-## File Markdown
-- [[.3 Numeri Complessi.md]]
-- [[3.2 Forma trigonometrica ed esponenziale di un numero complesso.md]]
-- [[3.1 Numeri Complessi BOG.md]]
-- [[3.3 Radici n-esime di un numero complesso.md]]
