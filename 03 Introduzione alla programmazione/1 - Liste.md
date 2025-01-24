@@ -6,7 +6,7 @@
 
 
 ### Definiamo il tipo di ogni elemento nella lista (cella):
-```
+```c
 	Struct cell{
 	T info: // <--- T = tipo noto
 	cell *next;
