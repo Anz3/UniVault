@@ -30,12 +30,12 @@
 - **Simbolo:** →  
 - **Descrizione:** Se il primo valore è 1, allora il secondo deve essere 1 affinché l'implicazione sia 1.  
 
-| \( P \) | \( Q \) | \( P\to Q \) |
-|---------|---------|--------------|
-| 1       | 1       | 1            |
-| 1       | 0       | 0            |
-| 0       | 1       | 1            |
-| 0       | 0       | 1            |
+| \( P \) | \( Q \) | \( P$\to$ Q \) |
+| ------- | ------- | -------------- |
+| 1       | 1       | 1              |
+| 1       | 0       | 0              |
+| 0       | 1       | 1              |
+| 0       | 0       | 1              |
 
 ---
 
