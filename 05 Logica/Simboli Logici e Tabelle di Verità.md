@@ -103,3 +103,6 @@
 ---
 
 Questo schema copre i principali simboli logici e le loro tabelle di verità con **1 e 0** al posto di **Vero e Falso**. Se vuoi altre modifiche, dimmi pure! 🚀
+
+
+![[Pasted image 20250202102356.png]]
