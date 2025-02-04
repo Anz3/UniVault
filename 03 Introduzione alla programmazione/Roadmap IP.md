@@ -1,3 +1,3 @@
-Struct
+**Struct** 
 Puntatori
 Puntatori approfondimento
