@@ -1,3 +1,4 @@
 **Struct** 
-Puntatori
+**Puntatori**
 Puntatori approfondimento
+vector!
